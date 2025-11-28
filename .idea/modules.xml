@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/course-fix.iml" filepath="$PROJECT_DIR$/course-fix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/course-rebuild.iml" filepath="$PROJECT_DIR$/course-rebuild.iml" />
     </modules>
   </component>
 </project>
