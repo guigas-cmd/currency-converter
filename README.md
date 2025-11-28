@@ -1,18 +1,23 @@
-# Currency Converter 💰
+Currency Converter 💵 → 🇧🇷
 
-A simple Java application to convert between Dollar, Euro and Brazilian Real with IOF tax calculation.
+A simple Java application to convert US Dollars to Brazilian Reais with IOF tax calculation.
+📋 Description
 
-## Features
-- Convert Dollar to Real
-- Convert Euro to Real  
-- Automatic IOF tax calculation
-- Simple console interface
+This project is a console-based currency converter that calculates the amount to be paid in Brazilian Reais when buying US Dollars, including the IOF (Tax on Financial Operations) tax.
+🚀 Features
 
-## Technologies
-- Java
-- Object-Oriented Programming
+    Dollar to Real conversion
 
-## How to Run
-```bash
-javac Program.java
-java Program
+    Automatic IOF tax calculation (6%)
+
+    Simple and intuitive console interface
+
+    Object-oriented programming structure
+
+🛠 Technologies
+
+    Java
+
+    Object-Oriented Programming (OOP)
+
+    Scanner for user input
