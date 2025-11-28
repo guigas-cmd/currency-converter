@@ -19,5 +19,3 @@ A Java application to convert between **Dollar**, **Euro** and Brazilian Real wi
 - **Object-Oriented Programming (OOP)**
 - **Scanner** for user input
 - **Git & GitHub** for version control
-
-## 📁 Project Structure
